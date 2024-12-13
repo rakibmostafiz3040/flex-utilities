@@ -1,0 +1,23 @@
+.background{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.box3{
+    background-color:darkgrey;
+    border: 5px solid black;
+    color: white;
+}
+.column{
+    background-color: bisque;
+}
+.container{
+    margin-bottom: 5%;
+}
+.mh-400{
+    min-height: 200px;
+}
+.box4{
+    height: 202px;
+    width: 202px;
+    background-color: grey;
+}
